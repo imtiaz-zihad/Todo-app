@@ -1,0 +1,4 @@
+- Learn Git basics
+- Create a new repository
+- Clone an existing repository
+- Commit changes
