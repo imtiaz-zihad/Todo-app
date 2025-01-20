@@ -10,3 +10,9 @@
 - Create and switch branches
 - Merge branches
 - Use Git tags
+
+
+
+-----merge conflict 
+Task 2: Initialize Git repository
+Task 2: Set up Git repository with README
