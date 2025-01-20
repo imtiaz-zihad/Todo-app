@@ -2,3 +2,11 @@
 - Create a new repository
 - Clone an existing repository
 - Commit changes
+
+
+ Push changes to remote repository
+- Pull updates from remote repository
+- Resolve merge conflicts
+- Create and switch branches
+- Merge branches
+- Use Git tags
